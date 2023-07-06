@@ -4,7 +4,6 @@ from Page.main_page import Main_Page
 from Page.login import Login_Page
 from Page.all_courses import All_Courses
 import logging
-import time
 
 
 def test():
