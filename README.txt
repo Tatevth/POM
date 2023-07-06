@@ -14,8 +14,8 @@ Deleted the test_branch
 Added README.txt file
 Checked the status of my changes - git status
 Staged all my changes - git add .
-Committed my changes - git commit -m "First Commit"
-Pushed the branch - git push -u origin new-branch
+Committed my changes - git commit -m "README.txt added"
+Pushed the branch - git push
 Created pull request from Github
 Merged the test_branch to master
 Deleted the test_branch
